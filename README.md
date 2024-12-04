@@ -1,3 +1,5 @@
+fock github.com/spf13/viper (v1.13.0)
+
 > ## Viper v2 feedback
 > Viper is heading towards v2 and we would love to hear what _**you**_ would like to see in it. Share your thoughts here: https://forms.gle/R6faU74qPRPAzchZ9
 >
